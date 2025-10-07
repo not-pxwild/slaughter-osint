@@ -1,14 +1,14 @@
-# Slaughter OSINT
-
-<img src="logo.png" alt="Logo" width="100" height="100">  
-<div align="center">
-### made by pxwild
+<div style="display: flex; align-items: center;">
+  <img src="logo.png" alt="Logo" width="50" height="50">
+  <h1 style="margin-left: 10px;">Slaughter OSINT</h1>
+</div>
+<div style="text-align: center;">
+  <p><em>Made by pxwild</em></p>
+</div>
 
 # BETA RELEASE
 
 This is Slaughter OSINT in its beta version. It provides core functionality for intelligence gathering, with significant enhancements planned for future updates as development time allows.
-
-</div>
 
 **Note on Capabilities:** This tool cannot provide 100% information about an individual and is not intended to do so. Firstly, as it is in beta, and secondly, this reflects the nature of OSINT, which relies on publicly available data and is inherently incomplete.
 
