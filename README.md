@@ -7,6 +7,14 @@
   <p><em>Made by pxwild</em></p>
 </div>
 
+---
+
+<div align="center">
+  <img src="slaughter.png" alt="Slaughter OSINT Screenshot" width="600">
+</div>
+
+---
+
 # BETA RELEASE
 
 This is Slaughter OSINT in its beta version. It provides core functionality for intelligence gathering, with significant enhancements planned for future updates as development time allows.
@@ -35,10 +43,6 @@ python slaughter.py
 * **Operating System**: Compatible with Linux, macOS, and Windows
 
 The tools operate offline where possible, using local processing and stealthy web scraping.
-
-## Preview
-
-![Slaughter OSINT Screenshot](slaughter.png)
 
 ## Disclaimer
 
