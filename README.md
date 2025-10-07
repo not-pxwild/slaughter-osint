@@ -1,6 +1,3 @@
-To place the logo **above** the title "Slaughter OSINT" (instead of next to it) while keeping the "Made by pxwild" formatting clean, I'll adjust the HTML structure to stack the logo and title vertically. The logo will remain small, and the "Made by pxwild" text will stay centered and styled. Here's the updated README:
-
-```markdown
 <div style="text-align: center;">
   <img src="logo.png" alt="Logo" width="50" height="50">
   <h1>Slaughter OSINT</h1>
