@@ -1,6 +1,8 @@
-<div style="text-align: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
   <img src="logo.png" alt="Logo" width="50" height="50">
-  <h1>Slaughter OSINT</h1>
+  <h1 style="margin-left: 10px;">Slaughter OSINT</h1>
+</div>
+<div style="text-align: center;">
   <p><em>Made by pxwild</em></p>
 </div>
 
