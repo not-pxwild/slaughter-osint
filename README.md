@@ -45,4 +45,3 @@ The tools operate offline where possible, using local processing and stealthy we
 ---
 
 Slaughter OSINT © 2025 pxwild. Use responsibly.  
-```
