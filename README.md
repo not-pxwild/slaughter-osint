@@ -20,18 +20,19 @@ Slaughter OSINT is a comprehensive toolkit for ethical intelligence gathering. I
 ### Step 1: Install Dependencies
 ```bash
 pip install -r requirements.txt
-```
+````
 
 ### Step 2: Run the Tool
+
 ```bash
 python slaughter.py
 ```
 
 ## Requirements
 
-- **Python**: 3.8 or higher (tested on 3.12)
-- **pip**: Latest version
-- **Operating System**: Compatible with Linux, macOS, and Windows
+* **Python**: 3.8 or higher (tested on 3.12)
+* **pip**: Latest version
+* **Operating System**: Compatible with Linux, macOS, and Windows
 
 The tools operate offline where possible, using local processing and stealthy web scraping.
 
